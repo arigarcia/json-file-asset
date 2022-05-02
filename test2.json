@@ -1,7 +1,0 @@
-[
-  {
-    "title": "Street Map",
-    "source": "https://api.os.uk/maps/raster/v1/zxy/Road_3857/{z}/{x}/{y}.png?key=gaG4BhAOnkoAGGagmwUEyOMHbEx4dBM7",
-    "name": "StreetMap"
-  }
-]
