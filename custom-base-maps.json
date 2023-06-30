@@ -42,5 +42,10 @@
     "source": "https://api.os.uk/maps/raster/v1/zxy/Road_3857/{z}/{x}/{y}.png?key=gaG4BhAOnkoAGGagmwUEyOMHbEx4dBM7",
     "name": "StreetMapTest4",
     "iconType": "custom"
+  },
+  {
+    "title": "Construction Basemap",
+    "source": "https://api.mapbox.com/styles/v1/fresnel/clbecx69x000515oh2ny549tc/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZnJlc25lbCIsImEiOiJjanBpY2o1a28xNXYyM3JudDNidHV3eXpmIn0.NmZfSzyKMGLHOTR1R2u9Ow",
+    "name": "Construction Basemap"
   }
 ]
